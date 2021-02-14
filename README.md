@@ -1,8 +1,10 @@
 # NLP with Representation Learning Project:
 
+See: Completed Report](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf)
+
 ## Brainstorming:
 
-We discussed multiple project ideas and we're currently faced with the following questions:
+We discussed multiple project ideas and were faced with the following questions:
 
 1) Should we focus on one language and explore various societal biases (gender, race, religions, etc.)?
 
@@ -10,7 +12,7 @@ We discussed multiple project ideas and we're currently faced with the following
 
 3) What are the NLP applications that we could potentially explore (MT, coreference resolution, embeddings, etc.)?
 
-To answer these questions, we would need to do a literature review on what's out there in terms of data, modeling, and evaluation metrics. So here are some papers I know of on debiasing NLP systems across multiple areas: 
+To answer these questions, we did a literature review on what's out there in terms of data, modeling, and evaluation metrics. So here are some papers on debiasing NLP systems across multiple areas: 
 
 ### Pretrained Language models:
 
