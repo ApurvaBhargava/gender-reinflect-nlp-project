@@ -1,6 +1,6 @@
 # NLP with Representation Learning Project:
 
-See: Completed Report](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf)
+See: [Complete Report](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf)
 
 ## Brainstorming:
 
